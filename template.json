@@ -1,0 +1,24 @@
+{
+    "bg-color-primary": "#hex-code-here",
+    
+    "ui-color-primary": "#hex-code-here",
+    "ui-color-secondary": "#hex-code-here",
+    "ui-color-tertiary": "#hex-code-here",
+    "ui-color-quaternary": "#hex-code-here",
+
+    "navbar-color": "#hex-code-here",
+
+    "active": "#hex-code-here",
+    "inactive": "#hex-code-here",
+
+    "successful": "#hex-code-here",
+    "unsuccessful": "#hex-code-here",
+
+    "heading-color-1": "#hex-code-here",
+    "paragraph-color-1": "#hex-code-here",
+
+    "active-outline-thickness": "0.5vmin",
+    "global-border-radius": "1vmin",
+
+    "font": "'JetBrains Mono', sans-serif"
+}
