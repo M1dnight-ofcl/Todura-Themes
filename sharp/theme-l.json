@@ -1,5 +1,5 @@
 {
-    "bg-color-primary": "#cccccc",
+    "bg-color-primary": "#c9c9c9",
     
     "ui-color-primary": "#dbdbdb",
     "ui-color-secondary": "#f0f0f0",
@@ -18,7 +18,7 @@
     "paragraph-color-1": "#141414",
 
     "active-outline-thickness": "0.5vmin",
-    "global-border-radius": "0vmin",,
+    "global-border-radius": "0vmin",
     "global-transition-time": "0.35s",
 
     "font": "'JetBrains Mono', sans-serif"
