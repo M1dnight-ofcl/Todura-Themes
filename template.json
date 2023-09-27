@@ -17,11 +17,12 @@
     "heading-color-1": "#hex-code-here",
     "paragraph-color-1": "#hex-code-here",
 
-    "active-outline-thickness": "0.5vmin",
-    "global-border-radius": "1vmin",
+    "active-outline-thickness": "0px",
+    "global-border-radius": "0px",
     "global-transition-time": "0.0s",
 
-    "background-image": "url('url-here')", //for no bg img, remove key
+    "background-image": "url('url-here')",
+    "background-image-blue": "0px",
 
     "font": "'JetBrains Mono', sans-serif"
 }
