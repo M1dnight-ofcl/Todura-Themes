@@ -20,6 +20,9 @@
     "active-outline-thickness": "0.5vmin",
     "global-border-radius": "1vmin",
     "global-transition-time": "0.35s",
+    
+    "background-image": "none",
+    "background-image-blue": "0",
 
     "font": "'JetBrains Mono', sans-serif"
 }
