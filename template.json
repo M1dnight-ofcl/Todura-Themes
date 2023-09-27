@@ -21,7 +21,7 @@
     "global-border-radius": "1vmin",
     "global-transition-time": "0.0s",
 
-    "background-image": "url('url-here')", 
+    "background-image": "url('url-here')", //for no bg img, remove key
 
     "font": "'JetBrains Mono', sans-serif"
 }
