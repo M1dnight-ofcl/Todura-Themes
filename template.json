@@ -22,7 +22,7 @@
     "global-transition-time": "0.0s",
 
     "background-image": "url('url-here')",
-    "background-image-blue": "0px",
+    "background-image-blur": "0px",
 
     "font": "'JetBrains Mono', sans-serif"
 }
