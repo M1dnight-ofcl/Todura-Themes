@@ -8,7 +8,7 @@
             "path": "default/theme-l.json",
             "name": "Default - Light"
         }
-    },
+    }, 
     "Sharp": {
         "dark": {
             "path": "sharp/theme-d.json",
