@@ -1,0 +1,28 @@
+{
+    "bg-color-primary": "rgba(230, 230, 230, 0.5)",
+    
+    "ui-color-primary": "#",
+    "ui-color-secondary": "#",
+    "ui-color-tertiary": "#",
+    "ui-color-quaternary": "#",
+
+    "navbar-color": "#",
+
+    "active": "#",
+    "inactive": "#",
+
+    "successful": "#",
+    "unsuccessful": "#",
+
+    "heading-color-1": "#",
+    "paragraph-color-1": "#",
+
+    "active-outline-thickness": "0.5vmin",
+    "global-border-radius": "0.5vmin",
+    "global-transition-time": "0.35s",
+
+    "background-image": "url('https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80')",
+    "background-image-blur": "0.35vmin",
+
+    "font": "'JetBrains Mono', sans-serif"
+}
