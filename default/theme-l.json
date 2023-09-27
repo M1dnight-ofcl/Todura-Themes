@@ -1,12 +1,12 @@
 {
-    "bg-color-primary": "#c9c9c9",
+    "bg-color-primary": "#d6d6d6",
     
     "ui-color-primary": "#dbdbdb",
     "ui-color-secondary": "#f0f0f0",
     "ui-color-tertiary": "#e6e6e6",
     "ui-color-quaternary": "#e6e6e6",
 
-    "navbar-color": "#f5f5f5",
+    "navbar-color": "#c9c9c9",
 
     "active": "#7b04f9",
     "inactive": "#545454",
