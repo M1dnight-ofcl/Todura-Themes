@@ -19,8 +19,9 @@
 
     "active-outline-thickness": "0.5vmin",
     "global-border-radius": "1vmin",
+    "global-transition-time": "0.0s",
 
-    "background-image": "url('url-here')", // optional
+    "background-image": "url('url-here')", 
 
     "font": "'JetBrains Mono', sans-serif"
 }
