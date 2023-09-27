@@ -1,21 +1,21 @@
 {
     "bg-color-primary": "rgba(230, 230, 230, 0.5)",
     
-    "ui-color-primary": "#",
-    "ui-color-secondary": "#",
-    "ui-color-tertiary": "#",
-    "ui-color-quaternary": "#",
+    "ui-color-primary": "rgba(255, 255, 255, 1)",
+    "ui-color-secondary": "rgba(235,235,235,0.7)",
+    "ui-color-tertiary": "#rgba(242,242,242,0.9)",
+    "ui-color-quaternary": "rgba(240,240,240,0.9)",
 
-    "navbar-color": "#",
+    "navbar-color": "rgba(205, 205, 205, 0.9)",
 
-    "active": "#",
-    "inactive": "#",
+    "active": "rgb(28, 54, 41)",
+    "inactive": "rgb(150,150,150)",
 
-    "successful": "#",
-    "unsuccessful": "#",
+    "successful": "rgb(28, 54, 41)",
+    "unsuccessful": "rgb(28, 54, 41)",
 
-    "heading-color-1": "#",
-    "paragraph-color-1": "#",
+    "heading-color-1": "rgb(2, 2, 2)",
+    "paragraph-color-1": "rgb(10,10,10)",
 
     "active-outline-thickness": "0.5vmin",
     "global-border-radius": "0.5vmin",
