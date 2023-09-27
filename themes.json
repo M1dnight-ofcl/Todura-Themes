@@ -1,0 +1,22 @@
+{
+    "Default": {
+        "dark": {
+            "path": "default/theme-d.json",
+            "name": "Default - Dark"
+        },
+        "light": {
+            "path": "default/theme-l.json",
+            "name": "Default - Light"
+        }
+    },
+    "Sharp": {
+        "dark": {
+            "path": "sharp/theme-d.json",
+            "name": "Sharp - Dark"
+        },
+        "light": {
+            "path": "sharp/theme-l.json",
+            "name": "Sharp - Light"
+        }
+    }
+}
