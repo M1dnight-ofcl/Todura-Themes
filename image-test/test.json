@@ -1,0 +1,26 @@
+{
+    "bg-color-primary": "#fff",
+    
+    "ui-color-primary": "#fff",
+    "ui-color-secondary": "#fff",
+    "ui-color-tertiary": "#fff",
+    "ui-color-quaternary": "#fff",
+
+    "navbar-color": "#hex-code-here",
+
+    "active": "#fff",
+    "inactive": "#fff",
+
+    "successful": "#fff",
+    "unsuccessful": "#fff",
+
+    "heading-color-1": "#fff",
+    "paragraph-color-1": "#fff",
+
+    "active-outline-thickness": "0.5vmin",
+    "global-border-radius": "1vmin",
+
+    "background-image": "url('https://www.zdnet.com/a/img/resize/ba1b1ab92085d777ab5e313b34c66a94b7aa1236/2023/06/05/79a43eb8-ce38-488c-8cc0-e04699aaca7f/bing.jpg?auto=webp&width=1280')",
+
+    "font": "'JetBrains Mono', sans-serif"
+}
