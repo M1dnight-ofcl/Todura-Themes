@@ -1,0 +1,28 @@
+{
+    "bg-color-primary": "rgba(255,255,255,0.25)",
+    
+    "ui-color-primary": "rgba(255,255,255,0.25)",
+    "ui-color-secondary": "rgba(255,255,255,0.25)",
+    "ui-color-tertiary": "rgba(255,255,255,0.25)",
+    "ui-color-quaternary": "rgba(255,255,255,0.25)",
+
+    "navbar-color": "rgba(255,255,255,0.25)",
+
+    "active": "#3883c9",
+    "inactive": "#6e6e6e",
+
+    "successful": "00ff44",
+    "unsuccessful": "#00ff44",
+
+    "heading-color-1": "#000",
+    "paragraph-color-1": "#262626",
+
+    "active-outline-thickness": "0.5vmin",
+    "global-border-radius": "1vmin",
+    "global-transition-time": "0.0s",
+
+    "background-image": "none",
+    "background-image-blur": "0.5vmin",
+
+    "font": "'JetBrains Mono', sans-serif"
+}
