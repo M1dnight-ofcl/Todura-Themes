@@ -1,27 +1,27 @@
 {
-    "bg-color-primary": "#hex-code-here",
+    "bg-color-primary": "#color",
     
-    "ui-color-primary": "#hex-code-here",
-    "ui-color-secondary": "#hex-code-here",
-    "ui-color-tertiary": "#hex-code-here",
-    "ui-color-quaternary": "#hex-code-here",
+    "ui-color-primary": "#color",
+    "ui-color-secondary": "#color",
+    "ui-color-tertiary": "#color",
+    "ui-color-quaternary": "#color",
 
-    "navbar-color": "#hex-code-here",
+    "navbar-color": "#color",
 
-    "active": "#hex-code-here",
-    "inactive": "#hex-code-here",
+    "active": "#color",
+    "inactive": "#color",
 
-    "successful": "#hex-code-here",
-    "unsuccessful": "#hex-code-here",
+    "successful": "#color",
+    "unsuccessful": "#color",
 
-    "heading-color-1": "#hex-code-here",
-    "paragraph-color-1": "#hex-code-here",
+    "heading-color-1": "#color",
+    "paragraph-color-1": "#color",
 
     "active-outline-thickness": "0px",
     "global-border-radius": "0px",
     "global-transition-time": "0.0s",
 
-    "background-image": "url('url-here')",
+    "background-image": "url('url')",
     "background-image-blur": "0px",
 
     "font": "'JetBrains Mono', sans-serif"
