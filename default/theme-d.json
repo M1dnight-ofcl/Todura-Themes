@@ -13,6 +13,7 @@
 
     "successful": "#18cded",
     "unsuccessful": "#d93a6f",
+    "banner-ui-color": "rgba(255,255,255,0.4)",
 
     "heading-color-1": "#ebebeb",
     "paragraph-color-1": "#bababa",
