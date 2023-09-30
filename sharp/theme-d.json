@@ -11,11 +11,12 @@
     "active": "#7b04f9",
     "inactive": "#5f5f5f",
 
+    "successful": "#18cded"
+    "inactive": "#5f5f5f",
+
     "successful": "#18cded",
     "unsuccessful": "#d93a6f",
-
-    "heading-color-1": "#ebebeb",
-    "paragraph-color-1": "#bababa",
+    "banner-ui-color": "rgba(255,255,255,0.4)",
 
     "active-outline-thickness": "0.5vmin",
     "global-border-radius": "0vmin",
