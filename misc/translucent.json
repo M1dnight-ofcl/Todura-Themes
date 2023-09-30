@@ -9,10 +9,11 @@
     "navbar-color": "rgba(255,255,255,0.25)",
 
     "active": "#3883c9",
-    "inactive": "#6e6e6e",
+    "inactive": "#5f5f5f",
 
-    "successful": "00ff44",
-    "unsuccessful": "#00ff44",
+    "successful": "#18cded",
+    "unsuccessful": "#d93a6f",
+    "banner-ui-color": "rgba(25,25,25,0.4)",
 
     "heading-color-1": "#000",
     "paragraph-color-1": "#262626",
