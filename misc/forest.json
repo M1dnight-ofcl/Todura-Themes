@@ -8,7 +8,7 @@
 
     "navbar-color": "rgba(205, 205, 205, 0.9)",
 
-    "active": "#64916a"
+    "active": "#64916a",
     "inactive": "#5f5f5f",
 
     "successful": "#18cded",
