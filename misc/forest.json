@@ -8,11 +8,12 @@
 
     "navbar-color": "rgba(205, 205, 205, 0.9)",
 
-    "active": "#64916a",
-    "inactive": "rgb(35,35,35)",
+    "active": "#64916a"
+    "inactive": "#5f5f5f",
 
-    "successful": "rgb(28, 54, 41)",
-    "unsuccessful": "rgb(28, 54, 41)",
+    "successful": "#18cded",
+    "unsuccessful": "#d93a6f",
+    "banner-ui-color": "rgba(25,25,25,0.4)",
 
     "heading-color-1": "rgb(2, 2, 2)",
     "paragraph-color-1": "rgb(10,10,10)",
